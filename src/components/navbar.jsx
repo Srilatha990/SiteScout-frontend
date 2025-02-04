@@ -77,7 +77,7 @@ const MyNavbar = () => {
       expand="lg"
       className={`navbar ${scrolling ? 'bg-black' : ''} fixed-top`}
       variant="dark"
-      style={{ transition: 'background-color 0.3s ease', padding: '15px 50px' }}
+      style={{ transition: 'background-color 0.3s ease', padding: '15px 0px' }}
     >
       <Container className="d-flex justify-content-between align-items-center">
         {/* Logo Section */}

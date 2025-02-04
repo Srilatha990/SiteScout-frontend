@@ -23,7 +23,7 @@ import ScrollToTop from './components/scroll';
 
 function App() {
   return (
-    <div className="App" style={{height:'200vh'}}>
+    <div className="App">
 
      <BrowserRouter>
      <ScrollToTop/>

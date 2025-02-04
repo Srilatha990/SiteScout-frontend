@@ -155,11 +155,8 @@ const Marketplace = () => {
         <div className="container text-center">
           {/* Buttons */}
           <div className="d-flex justify-content-center mb-4">
-            <button className="btn btn-primary me-3" style={{ width: '150px' }}>
-              Button 1
-            </button>
-            <button style={{ width: '150px', backgroundColor: '#fff', border: 'none', borderRadius: '5px' }}>
-              Button 2
+            <button className="btn btn-primary me-3" style={{ width: '190px' }}>
+              Advanced Services
             </button>
           </div>
 
